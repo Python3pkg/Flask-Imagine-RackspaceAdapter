@@ -21,7 +21,7 @@ setup(
     install_requires=[
 
         'Flask-Imagine>=0.4',
-        'boto>=2.38.0',
+        'pyrax>=1.9.7',
 
     ],
 
