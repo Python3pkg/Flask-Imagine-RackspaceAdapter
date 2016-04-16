@@ -1,0 +1,2 @@
+Flask-Imagine>=0.4
+pyrax>=1.9.7
