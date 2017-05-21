@@ -5,7 +5,7 @@ import pyrax
 import tempfile
 import time
 from PIL import Image
-from StringIO import StringIO
+from io import StringIO
 from pyrax.exceptions import NoSuchObject
 
 from flask.ext.imagine.adapters.interface import ImagineAdapterInterface
